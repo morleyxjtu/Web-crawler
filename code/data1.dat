@@ -1,7 +1,0 @@
-m1 www.virus.com b.exe
-m2 b.exe c.exe
-m3 c.exe www.virus.com
-m0562 a.exe b.exe
-m0109 c.exe b.exe
-m0109 explorer.exe d.exe
-m30 a.exe a.exe
